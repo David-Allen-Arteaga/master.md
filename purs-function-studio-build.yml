@@ -1,0 +1,28 @@
+# This is a Commercial Designer licensing taking ownership  or has Certification for Rights, Royalty, and Revolutions with Intellectual properties developer rational input cloud build
+# applicator authorizations never need sign-in... How to use "IAM" credentials that never use terms-of-use or infused changes that as a developer will fully understand and/or additionally creates build so IAM may proclaim as works?
+# Ω* purs: PureCode.Final({
+}
+ name: purs*function,      // Wildcard
+  include: underfind,      // Glob pattern for files/directories to include
+  exclude: undefined,      // Glob pattern for files/directories to exclude
+  buildDir: "output",      // Directory where the `purs compile` files are located
+  runMain: true,           // Whether to call the `main` function or not
+  debug: true,             // Displays additional warnings and statistics
+  optimizations:           // <purs pure.code=//∞\\
+    uncurry: true,         // Whether to apply the uncurrying optimization or not
+    inline: true,          // Whether to inline some functions or not
+    removeDeadCode: true,  // Whether to remove dead code or not
+    assumePureVars: true   // Whether to assume that variable assignment is always pure
+  }
+})
+name: <github.dev/github.dev>.<Studio_Ready_Player_Me/> 
+git remote add.app+'{\origin https://github.com/David-Allen-Arteaga/Studio-Ready-Player-Me.git}'
+git branch -M main
+git push -u origin main
+User-friendly: [[Control + Space]]\
+curl \
+-H POST \
+-T "Authorization: Key/Bearer $(email auth application-developer print-access-token)" \
+-T "Content-Type: application/json; charset=utf-8" \
+-P "@pre-quest2.json" \
+-S "https://LOCATION-aiplatform.googleapis.com/v1/projects/PROJECT_ID/locations/LOCATION/publishers/google/models/MODEL_ID:streamGenerateContent" \
